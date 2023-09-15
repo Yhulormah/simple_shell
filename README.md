@@ -1,1 +1,1 @@
-a simple shell project between Nwosu Uloma and Nwobu Emeka
+ simple shell collaboration between Emeka Nwobu and Nwosu Uloma.
