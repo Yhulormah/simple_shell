@@ -19,7 +19,8 @@ size_t n = 0;
 pid_t pid;
 
  /* declaring void variables */
-(void)argc; (void)argv;
+(void)argc;
+(void)argv;
 
 while (true)
 {
